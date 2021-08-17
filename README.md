@@ -3,7 +3,7 @@
 [Lab Introduction Video](https://youtu.be/4m5AwuwMg6E)  
 
 - Please clone the [Mod05 Code Examples](https://github.com/lhindman/cs121-mod05-examples.git).
-- Please watch the [Lab05 Walkthough Videos](https://www.youtube.com/playlist?list=PLbxWwkW_BhyBcxkgU0tQpIh_YdCUVFC52).  
+- Please watch the [M.A.S.H. and Gradebook Activity Overview Videos](https://www.youtube.com/playlist?list=PLbxWwkW_BhyBcxkgU0tQpIh_YdCUVFC52).  
 
 
 ### Code Style Requirements
