@@ -42,7 +42,7 @@ The program must implement a method named *headsOrTails* that will perform the r
  *    "heads" and the value 1 represents "tails."  Return a String that 
  *    contains the randomly selected word.
  *
- * @param reference to Random object to use for calls to nextInt()
+ * @param rand Reference to Random object to use for calls to nextInt()
  * @return String containing the randomly selected "heads" or "tails"
  */
 
@@ -85,7 +85,7 @@ The program must implement a method named *truesOrFalse* that will perform the r
  *    true and the value 1 represents false.  Return a String that 
  *    contains the randomly selected word.
  *
- * @param reference to Random object to use for calls to *nextInt()*
+ * @param rand Reference to Random object to use for calls to *nextInt()*
  * @return boolean containing the randomly selected true or false
  */
 
